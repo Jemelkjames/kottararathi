@@ -1,11 +1,16 @@
 .navbar-brand {
     
 }
+.div {
+    background-color: black;
 
+
+}
 
 
 .big-banner {
     background-image: url('image/poster.jpg');
-    height: 800px;
+    height: 640px;
+    width: 96%;
 
 }
