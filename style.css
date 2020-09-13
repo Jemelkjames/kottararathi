@@ -7,6 +7,19 @@
     
 }
  
-#hlf {
-    font: outline;
+.head {
+    margin: ;
+    background-color:#c40eed ;
+    height: 90;
+    width: 100%;
+    opacity: 70%;
+    body {margin:3px}
+
+
+}
+
+.hi {
+    font-size:551%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
