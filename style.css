@@ -43,3 +43,32 @@
 
 
 
+
+.boder{
+    width: 498px;
+    height: 301;
+    border:solid 4px;
+    pa
+    
+}
+
+
+
+.gallery{
+    margin: 5px;
+    border: 4px solid #ccc;
+    float: left;
+    width: 400px;
+  }
+
+
+
+  .gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+
+  .desc {
+    padding: 15px;
+    text-align: center;
